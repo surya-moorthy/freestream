@@ -1,5 +1,4 @@
 import {BrowserRouter, Route, Routes} from "react-router-dom"
-import { useState } from 'react'
 import './App.css'
 import Receiver from "./components/Receiver"
 import Sender from "./components/Sender"
